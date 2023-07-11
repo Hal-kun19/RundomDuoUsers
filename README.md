@@ -1,2 +1,2 @@
-# ApexTools
-Apexの設定の計算だったりあったら便利なツールを入れてるよ
+# RundomDuoUsers
+Apexのカスタムとかで一回当たった人と当たらないっていう仕組みをScratch作ってHTMLに引っ張ってきたやつ
